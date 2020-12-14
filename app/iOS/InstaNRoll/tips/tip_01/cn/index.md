@@ -10,6 +10,7 @@
 
 Ta-da! 使用 **`InstaNRoll`** 你可以忘掉这些烦恼. 请看如下几个小示例:
 
+--- 
 ## 篮板是我的天下
 打开将要切片的原图
 
@@ -32,4 +33,21 @@ Ta-da! 使用 **`InstaNRoll`** 你可以忘掉这些烦恼. 请看如下几个�
 ![04](https://gifshelf.github.io/ac_project/app/iOS/InstaNRoll/tips/tip_01/images/IMB_A7uiS6.GIF)
 
 
+--- 
+
+## 景山公园的日落
+
+同样的流程, 就是这么简单~ 
+![05](https://gifshelf.github.io/ac_project/app/iOS/InstaNRoll/tips/tip_01/images/IMG_184.jpg)
+
+![06](https://gifshelf.github.io/ac_project/app/iOS/InstaNRoll/tips/tip_01/images/IMB_keQWyv.GIF)
+
 ---
+
+### 其他小 tips
+
+- 如果不需要每次自动保存切片前所构图的联合图片, 可在设置中关闭.
+- 如果您已比较熟悉操作流程, 希望界面更加简洁, 可在设置中打开「减少按钮描述」开关.
+
+
+
