@@ -10,7 +10,7 @@
 
 Ta-da! 使用 **`InstaNRoll`** 你可以忘掉这些烦恼. 请看如下几个小示例:
 
-### 篮板是我的天下
+## 篮板是我的天下
 打开将要切片的原图
 
 ![01](https://raw.githubusercontent.com/gifshelf/ac_project/gh-pages/app/iOS/InstaNRoll/tips/tip_01/images/IMG_9385.jpg)
@@ -29,7 +29,7 @@ Ta-da! 使用 **`InstaNRoll`** 你可以忘掉这些烦恼. 请看如下几个�
 
 点击下一步按钮, 完成~
 
-![03](https://raw.githubusercontent.com/gifshelf/ac_project/gh-pages/app/iOS/InstaNRoll/tips/tip_01/images/IMB_A7uiS6.GIF)
+![04](https://raw.githubusercontent.com/gifshelf/ac_project/gh-pages/app/iOS/InstaNRoll/tips/tip_01/images/IMB_A7uiS6.GIF)
 
 
 
