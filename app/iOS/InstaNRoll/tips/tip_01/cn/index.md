@@ -13,25 +13,23 @@ Ta-da! 使用 **`InstaNRoll`** 你可以忘掉这些烦恼. 请看如下几个�
 ## 篮板是我的天下
 打开将要切片的原图
 
-![01](https://raw.githubusercontent.com/gifshelf/ac_project/gh-pages/app/iOS/InstaNRoll/tips/tip_01/images/IMG_9385.jpg)
+![01](https://gifshelf.github.io/ac_project/app/iOS/InstaNRoll/tips/tip_01/images/IMG_9385.jpg)
 
 初始位置居中 1:1 两片, 这张照片切为两片已经足够了, 但为了画面展示区域更大一点, 此处尝试选择单张 `4:5` 的比例.
 
-![02](https://raw.githubusercontent.com/gifshelf/ac_project/gh-pages/app/iOS/InstaNRoll/tips/tip_01/images/IMG_9393.jpg)
+![02](https://gifshelf.github.io/ac_project/app/iOS/InstaNRoll/tips/tip_01/images/IMG_9393.jpg)
 
 发现底部中间有一块构图上不需要的部分, 移动将其挪开.
 
-![03](https://raw.githubusercontent.com/gifshelf/ac_project/gh-pages/app/iOS/InstaNRoll/tips/tip_01/images/IMG_9387.jpg)
+![03](https://gifshelf.github.io/ac_project/app/iOS/InstaNRoll/tips/tip_01/images/IMG_9387.jpg)
 
 最后我们再点开角度旋转功能, 检查一下水平线是否准确. 
 
-![03](https://raw.githubusercontent.com/gifshelf/ac_project/gh-pages/app/iOS/InstaNRoll/tips/tip_01/images/IMG_9398.jpg)
+![03](https://gifshelf.github.io/ac_project/app/iOS/InstaNRoll/tips/tip_01/images/IMG_9398.jpg)
 
 点击下一步按钮, 完成~
 
-![04](https://raw.githubusercontent.com/gifshelf/ac_project/gh-pages/app/iOS/InstaNRoll/tips/tip_01/images/IMB_A7uiS6.GIF)
-
-
+![04](https://gifshelf.github.io/ac_project/app/iOS/InstaNRoll/tips/tip_01/images/IMB_A7uiS6.GIF)
 
 
 ---
