@@ -17,7 +17,7 @@ Open the original image to be sliced
 
 The original setting was to crop it into two photos at a 1:1 ratio.
 
-![02](https://gifshelf.github.io/ac_project/app/iOS/InstaNRoll/tips/tip_01/images/IMG_9393.jpg)
+![02](https://gifshelf.github.io/ac_project/app/iOS/InstaNRoll/tips/tip_01/images/IMG_9393_en.jpg)
 
 This photo already looks good in two slices, but for a larger display area, try a single 4:5 ratio here.
 
