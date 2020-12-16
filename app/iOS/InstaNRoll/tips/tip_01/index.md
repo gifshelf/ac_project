@@ -16,22 +16,22 @@ Open the original image to be sliced
 ![01](https://gifshelf.github.io/ac_project/app/iOS/InstaNRoll/tips/tip_01/images/IMG_9385.jpg)
 
 The original setting was to crop it into two photos at a 1:1 ratio.
+This photo already looks good in two slices, but for a larger display area, try a single 4:5 ratio here.
 
 ![02](https://gifshelf.github.io/ac_project/app/iOS/InstaNRoll/tips/tip_01/images/IMG_9393_en.jpg)
 
-This photo already looks good in two slices, but for a larger display area, try a single 4:5 ratio here.
+There is a piece in the bottom center that is not needed for the composition, so move it out of the way.
 
 ![03](https://gifshelf.github.io/ac_project/app/iOS/InstaNRoll/tips/tip_01/images/IMG_9387.jpg)
 
-There is a piece in the bottom center that is not needed for the composition, so move it out of the way.
+Finally, we click on the angle rotation function to check the accuracy of the horizontal line.
 
 ![04](https://gifshelf.github.io/ac_project/app/iOS/InstaNRoll/tips/tip_01/images/IMG_9398.jpg)
 
-Finally, we click on the angle rotation function to check the accuracy of the horizontal line.
+Click the Next button to finish~
 
 ![05](https://gifshelf.github.io/ac_project/app/iOS/InstaNRoll/tips/tip_01/images/IMB_A7uiS6.GIF)
 
-Click the Next button to finish~
 
 --- 
 
