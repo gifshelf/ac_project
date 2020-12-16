@@ -24,11 +24,11 @@ There is a piece in the bottom center that is not needed for the composition, so
 
 ![03](https://gifshelf.github.io/ac_project/app/iOS/InstaNRoll/tips/tip_01/images/IMG_9387.jpg)
 
-Finally, we click on the angle rotation function to check the accuracy of the horizontal line.
+Finally, tap the angle rotation button and check the accuracy of the horizontal line.
 
 ![04](https://gifshelf.github.io/ac_project/app/iOS/InstaNRoll/tips/tip_01/images/IMG_9398.jpg)
 
-Click the Next button to finish~
+OK, Tap the Next button to finish~
 
 ![05](https://gifshelf.github.io/ac_project/app/iOS/InstaNRoll/tips/tip_01/images/IMB_A7uiS6.GIF)
 
@@ -49,7 +49,7 @@ The same process, so simple.
 
 - If you don't need to automatically save the image before slicing, you can turn it off in the settings.
 
-- If you are familiar with the process and want to make the interface more simple, you can turn on the "Reduce button description" switch in the settings.
+- If you are familiar with the process and want to make the user interface more simple, you can turn on the "Reduce button description" switch in the settings.
 
 
 
