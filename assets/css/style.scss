@@ -4,7 +4,13 @@
 @import "{{ site.theme }}";
 
 .main-content {
-  a {
-   color: #00A1FE;
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+   color: #004D81;
+   font-weight: bold;
   }
 }
