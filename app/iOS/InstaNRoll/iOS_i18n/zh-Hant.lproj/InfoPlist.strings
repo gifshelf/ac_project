@@ -10,3 +10,5 @@
 "CFBundleDisplayName" = "InstaNRoll";
 
 "NSPhotoLibraryAddUsageDescription" = "需要存儲圖片到您的相冊";
+
+"NSPhotoLibraryUsageDescription" = "需要讀取您的相冊";

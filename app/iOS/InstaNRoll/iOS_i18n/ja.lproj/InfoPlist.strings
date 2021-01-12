@@ -10,3 +10,5 @@
 "CFBundleDisplayName" = "InstaNRoll";
 
 "NSPhotoLibraryAddUsageDescription" = "写真を保存する";
+
+"NSPhotoLibraryUsageDescription" = "Need to access your album";

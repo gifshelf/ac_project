@@ -10,3 +10,5 @@
 "CFBundleDisplayName" = "InstaNRoll";
 
 "NSPhotoLibraryAddUsageDescription" = "Need to save photos to your album";
+
+"NSPhotoLibraryUsageDescription" = "Need to access your album";
