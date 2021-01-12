@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  InstaSlide
+
+  Created by zhuyuankai on 2020/11/11.
+  
+*/
+
+
+"CFBundleDisplayName" = "InstaNRoll";
+
+"NSPhotoLibraryAddUsageDescription" = "Need to save photos to your album";
