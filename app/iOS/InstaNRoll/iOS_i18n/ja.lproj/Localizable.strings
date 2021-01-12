@@ -1,0 +1,103 @@
+/*
+  Localizable.strings
+  InstaSlide
+
+  Created by zhuyuankai on 2020/11/11.
+  
+*/
+
+"Sorry" = "すみません";
+
+"Close" = "閉める";
+
+"OK" = "はい";
+
+"Cancel" = "キャンセル";
+
+"Add" = "添える";
+
+"Open in Safari" = "Safariで開く";
+
+"Settings" = "設定";
+
+"Save images" = "保存";
+
+"Select One Photo" = "写真を選ぶ";
+
+"Unable to access this photo" = "この写真を訪問できない";
+
+"Select Configuration" = "カットシートと割合を選ぶ";
+
+"Count" = "カットシートの枚数";
+"Ratio" = "割合";
+
+"Reset" = "リセット";
+"Restore" = "戻る";
+
+"Images saved successfully" = "保存しました";
+"Unable to save some of the images" = "一部の写真の保存に失敗しました";
+
+"Jump to system settings" = "システムの設定にいく";
+
+"Remove watermark, unlock all ratios." = "印を消す、フリーカット";
+"Get rid of the ads, unlock all ratios." = "広告なし、フリーカット";
+"You're all set" = "全ての機能は使えます";
+"Restore Purchase" = "復元購入";
+"Restore Purchase failed" = "復元購入失敗";
+
+"Save joined image" = "元の写真を保存する";
+
+"Reduce button description" = "ボタンの説明を減らす";
+
+"Privacy" = "プライバシー";
+"Licenses" = "利用規約";
+"Feedback" = "ご意見";
+"About" = "著作権情報";
+
+"Thank you for purchasing!" = "ご購入、ありがとうございました！";
+"Purchase Failed, please try again." = "購入に失敗しました、もう一度試してください。";
+
+
+"Email settings" = "メアド設定";
+
+"Your phone is not yet set up any email, if you want to send a feedback please go set some email up or send a email directly to our email address: " = "お使いの携帯電話はまだメールを設定しなかったので、フィードバックを送信したい場合は、任意のメールを設定されて、あるいは直接メールアドレスを送信するにいきます。フィードバックメアドは： ";
+
+
+"No thanks" = "戻る";
+
+"Copy feedback email address" = "フィードバックメアドをコピーする";
+"Go to Mail app" = "メアドを設定する";
+
+"Tips" = "ヒント";
+
+"Cropping Options" = "カットシート選択";
+
+"Next" = "つぎ";
+
+"Rotation" = "回る";
+
+"Using count marked with (AD) will display pop-up ads when save." = "マーク（AD）があるカットシートを保存する時に、ポップアップ広告が表示されます。";
+
+"Failed to load AD." = "広告をダウンロードできません";
+"Please wait for the ad to finish loading." = "広告をダウンロードしています、少々お待ちください";
+
+"Width" = "広さ";
+"Height" = "高さ";
+"Type the ratio you want" = "望む割合を入力します";
+"Please try to type a reasonable ratio." = "適切な割合を入力してください";
+"Customized ratio is only available for members." = "カスタマイズされた割合は、メンバーのみ利用可能です。";
+"This ratio is for members only." = "この割合は、メンバーのみ利用可能です。";
+"Unlock it!" = "これ欲しい！";
+
+"Share InstaNRoll to your friends" = "友人とシェアます";
+"Rate us in App Store" = "App Store で評価してくれます ❤️";
+"Follow us on Instagram" = "Instagramをフォローする";
+"What is the app icon?" = "app のアイコンは何ですか？";
+
+"Remove watermark" = "印を消したい";
+
+"Are you sure to purchase for Watermark Removal and Unlock All Ratios?" = "ご購入、もう一度確認してください";
+
+"Jump to instagram directly?" = "Instagramへ行く？";
+
+"Unable to open" = "開けませんでした";

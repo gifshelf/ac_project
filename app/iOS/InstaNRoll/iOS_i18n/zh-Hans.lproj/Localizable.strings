@@ -1,0 +1,103 @@
+/* 
+  Localizable.strings
+  InstaSlide
+
+  Created by zhuyuankai on 2020/11/11.
+  
+*/
+
+"Sorry" = "对不起";
+
+"Close" = "关闭";
+
+"OK" = "好的";
+
+"Cancel" = "取消";
+
+"Add" = "添加";
+
+"Open in Safari" = "在 Safari 中打开";
+
+"Settings" = "设置";
+
+"Save images" = "保存";
+
+"Select One Photo" = "选取图片";
+
+"Unable to access this photo" = "无法访问该图片";
+
+"Select Configuration" = "选择切片和比例";
+
+"Count" = "切片张数";
+"Ratio" = "单张比例";
+
+"Reset" = "重置";
+"Restore" = "还原";
+
+"Images saved successfully" = "图片保存成功";
+"Unable to save some of the images" = "部分图片保存失败";
+
+"Jump to system settings" = "转到系统设置";
+
+"Remove watermark, unlock all ratios." = "去去水印走，画布随我裁。";
+"Get rid of the ads, unlock all ratios." = "去去广告走，画布随我裁。";
+"You're all set" = "您已解锁全部功能";
+"Restore Purchase" = "恢复购买";
+"Restore Purchase failed" = "恢复购买失败";
+
+"Save joined image" = "保存切片前的图片";
+
+"Reduce button description" = "减少按钮描述";
+
+"Privacy" = "隐私";
+"Licenses" = "许可";
+"Feedback" = "问题反馈";
+"About" = "关于";
+
+"Thank you for purchasing!" = "感谢购买!";
+"Purchase Failed, please try again." = "购买失败，请重试。";
+
+
+"Email settings" = "邮件设置";
+
+"Your phone is not yet set up any email, if you want to send a feedback please go set some email up or send a email directly to our email address: " = "您的手机尚未设置邮件发送功能， 如需反馈请去设置邮件或单独发送邮件给我们， 我们的反馈邮箱地址是： ";
+
+"No thanks" = "算了";
+
+"Copy feedback email address" = "复制反馈邮箱地址";
+
+"Go to Mail app" = "去设置邮箱";
+
+"Tips" = "小提示";
+
+"Cropping Options" = "切片选项";
+
+"Next" = "下一步";
+
+"Rotation" = "旋转";
+
+"Using count marked with (AD) will display pop-up ads when save." = "使用带有 (AD) 标识的切片张数将会在保存时展示弹出式广告。";
+
+"Failed to load AD." = "加载广告失败";
+"Please wait for the ad to finish loading." = "广告尚未加载完成，请稍后。";
+
+"Width" = "宽";
+"Height" = "高";
+"Type the ratio you want" = "请输入自定义比例";
+"Please try to type a reasonable ratio." = "请输入一个合理的比例。";
+"Customized ratio is only available for members." = "定制比例只为付费用户开放哦。";
+"This ratio is for members only." = "该比例只为付费用户提供哦。";
+"Unlock it!" = "我要解锁！";
+
+"Share InstaNRoll to your friends" = "分享给你的朋友";
+"Rate us in App Store" = "在 App Store 中给我们评分 ❤️";
+"Follow us on Instagram" = "关注我们的 Instagram";
+"What is the app icon?" = "app 图标是什么?";
+
+"Remove watermark" = "我要去水印";
+
+"Are you sure to purchase for Watermark Removal and Unlock All Ratios?" = "确定要付费移除水印并解锁全部切片比例吗?";
+
+"Jump to instagram directly?" = "跳转到 Instagram ?";
+
+"Unable to open" = "不能成功打开";

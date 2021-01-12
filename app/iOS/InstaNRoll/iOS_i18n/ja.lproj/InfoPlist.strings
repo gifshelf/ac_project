@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  InstaSlide
+
+  Created by zhuyuankai on 2020/11/11.
+  
+*/
+
+
+"CFBundleDisplayName" = "InstaNRoll";
+
+"NSPhotoLibraryAddUsageDescription" = "写真を保存する";
