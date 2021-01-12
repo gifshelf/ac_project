@@ -1,0 +1,103 @@
+/* 
+  Localizable.strings
+  InstaSlide
+
+  Created by zhuyuankai on 2020/11/11.
+  
+*/
+
+"Sorry" = "Sorry";
+
+"Close" = "Close";
+
+"OK" = "OK";
+
+"Cancel" = "Cancel";
+
+"Add" = "Add";
+
+"Open in Safari" = "Open in Safari";
+
+"Settings" = "Settings";
+
+"Save images" = "Save images";
+
+"Select One Photo" = "Select Photo";
+
+"Unable to access this photo" = "Unable to access this photo";
+
+"Select Configuration" = "Select Configuration";
+
+"Count" = "Count";
+"Ratio" = "Ratio";
+
+"Reset" = "Reset";
+"Restore" = "Restore";
+
+"Images saved successfully" = "Images saved successfully";
+"Unable to save some of the images" = "Unable to save some of the images";
+
+"Jump to system settings" = "Jump to system settings";
+
+"Remove watermark, unlock all ratios." = "Remove watermark, unlock all ratios.";
+"Get rid of the ads, unlock all ratios." = "Get rid of the ads, unlock all ratios.";
+"You're all set" = "You're all set";
+"Restore Purchase" = "Restore Purchase";
+"Restore Purchase failed" = "Restore Purchase failed";
+
+"Save joined image" = "Save joined image";
+
+"Reduce button description" = "Reduce button description";
+
+"Privacy" = "Privacy";
+"Licenses" = "Licenses";
+"Feedback" = "Feedback";
+"About" = "About";
+
+"Thank you for purchasing!" = "Thank you for purchasing!";
+"Purchase Failed, please try again." = "Purchase Failed, please try again.";
+
+
+"Email settings" = "Email settings";
+
+"Your phone is not yet set up any email, if you want to send a feedback please go set some email up or send a email directly to our email address: " = "Your phone is not yet set up any email, if you want to send a feedback please set up email or send a email directly to our email address: ";
+
+"No thanks" = "No thanks";
+
+"Copy feedback email address" = "Copy feedback email address";
+
+"Go to Mail app" = "Go to Mail app";
+
+"Tips" = "Tips";
+
+"Cropping Options" = "Options";
+
+"Next" = "Next";
+
+"Rotation" = "Rotation";
+
+"Using count marked with (AD) will display pop-up ads when save." = "Using count marked with (AD) will display pop-up ads when save.";
+
+"Failed to load AD." = "Failed to load AD.";
+"Please wait for the ad to finish loading." = "Please wait for the ad to finish loading.";
+
+"Width" = "Width";
+"Height" = "Height";
+"Type the ratio you want" = "Type the ratio you want";
+"Please try to type a reasonable ratio." = "Please try to type a reasonable ratio.";
+"Customized ratio is only available for members." = "Customized ratio is only available for members.";
+"This ratio is for members only." = "This ratio is for members only.";
+"Unlock it!" = "Unlock it!";
+
+"Share InstaNRoll to your friends" = "Share InstaNRoll to your friends";
+"Rate us in App Store" = "Rate us in App Store ❤️";
+"Follow us on Instagram" = "Follow us on Instagram";
+"What is the app icon?" = "What is the app icon?";
+
+"Remove watermark" = "Remove watermark";
+
+"Are you sure to purchase for Watermark Removal and Unlock All Ratios?" = "Are you sure to purchase for Watermark Removal and Unlock All Ratios?";
+
+"Jump to instagram directly?" = "Jump to instagram directly?";
+
+"Unable to open" = "Unable to open";
