@@ -6,98 +6,98 @@
   
 */
 
-"Sorry" = "Sorry";
+"Sorry" = "Désolé";
 
-"Close" = "Close";
+"Close" = "Fermer";
 
 "OK" = "OK";
 
-"Cancel" = "Cancel";
+"Cancel" = "Annuler";
 
-"Add" = "Add";
+"Add" = "Ajouter";
 
-"Open in Safari" = "Open in Safari";
+"Open in Safari" = "Ouvrir en afari";
 
-"Settings" = "Settings";
+"Settings" = "Réglages";
 
-"Save images" = "Save images";
+"Save images" = "Sauvegarder les images";
 
-"Select One Photo" = "Select Photo";
+"Select One Photo" = "Sélectionner une photo";
 
-"Unable to access this photo" = "Unable to access this photo";
+"Unable to access this photo" = "Incapable d'accéder à cette photo";
 
-"Select Configuration" = "Select Configuration";
+"Select Configuration" = "Sélectionner la configuration";
 
-"Count" = "Count";
+"Count" = "Compter";
 "Ratio" = "Ratio";
 
-"Reset" = "Reset";
-"Restore" = "Restore";
+"Reset" = "Réinitialiser";
+"Restore" = "Restaurer";
 
-"Images saved successfully" = "Images saved successfully";
-"Unable to save some of the images" = "Unable to save some of the images";
+"Images saved successfully" = "Images sauvegardées avec succès";
+"Unable to save some of the images" = "Incapable de sauvegarder certaines des images";
 
-"Jump to system settings" = "Jump to system settings";
+"Jump to system settings" = "Aller aux réglages";
 
-"Remove watermark, unlock all ratios." = "Remove watermark, unlock all ratios.";
-"Get rid of the ads, unlock all ratios." = "Get rid of the ads, unlock all ratios.";
-"You're all set" = "You're all set";
-"Restore Purchase" = "Restore Purchase";
-"Restore Purchase failed" = "Restore Purchase failed";
+"Remove watermark, unlock all ratios." = "Enlever le filigrane, déverrouiller tous les ratios.";
+"Get rid of the ads, unlock all ratios." = "Pas de pub, déverrouiller tous les ratios.";
+"You're all set" = "Vous êtes prêt";
+"Restore Purchase" = "Restaurer à VIP";
+"Restore Purchase failed" = "Incapable de restaurer à VIP";
 
-"Save joined image" = "Save joined image";
+"Save joined image" = "Sauvegarder l'image jointe";
 
-"Reduce button description" = "Reduce button description";
+"Reduce button description" = "Réduire la description du bouton";
 
-"Privacy" = "Privacy";
-"Licenses" = "Licenses";
-"Feedback" = "Feedback";
-"About" = "About";
+"Privacy" = "Confidentialité";
+"Licenses" = "Les licences";
+"Feedback" = "Donner d'avis";
+"About" = "A propos de l'app";
 
-"Thank you for purchasing!" = "Thank you for purchasing!";
-"Purchase Failed, please try again." = "Purchase Failed, please try again.";
+"Thank you for purchasing!" = "Merci d'avoir acheté !";
+"Purchase Failed, please try again." = "Incapable d'acheter, essayer à nouveau.";
 
 
-"Email settings" = "Email settings";
+"Email settings" = "Réglages de Mail";
 
-"Your phone is not yet set up any email, if you want to send a feedback please go set some email up or send a email directly to our email address: " = "Your phone is not yet set up any email, if you want to send a feedback please set up email or send a email directly to our email address: ";
+"Your phone is not yet set up any email, if you want to send a feedback please go set some email up or send a email directly to our email address: " = "Veuillez configurer ou envoyer un courriel directement à notre adresses : ";
 
-"No thanks" = "No thanks";
+"No thanks" = "Non, merci.";
 
-"Copy feedback email address" = "Copy feedback email address";
+"Copy feedback email address" = "Copier l'adresses d'avis";
 
-"Go to Mail app" = "Go to Mail app";
+"Go to Mail app" = "Aller à l'application Mail";
 
-"Tips" = "Tips";
+"Tips" = "Conseils";
 
-"Cropping Options" = "Options";
+"Cropping Options" = "Options de coupe";
 
-"Next" = "Next";
+"Next" = "Suivant";
 
 "Rotation" = "Rotation";
 
-"Using count marked with (AD) will display pop-up ads when save." = "Using count marked with (AD) will display pop-up ads when save.";
+"Using count marked with (AD) will display pop-up ads when save." = "L'utilisation d'un compte marqué par (AD) affichera des pub lors de la sauvegarde.";
 
-"Failed to load AD." = "Failed to load AD.";
-"Please wait for the ad to finish loading." = "Please wait for the ad to finish loading.";
+"Failed to load AD." = "Incapable de charger de la pub";
+"Please wait for the ad to finish loading." = "Veuillez attendre la fin du chargement de la pub";
 
-"Width" = "Width";
-"Height" = "Height";
-"Type the ratio you want" = "Type the ratio you want";
-"Please try to type a reasonable ratio." = "Please try to type a reasonable ratio.";
-"Customized ratio is only available for members." = "Customized ratio is only available for members.";
-"This ratio is for members only." = "This ratio is for members only.";
-"Unlock it!" = "Unlock it!";
+"Width" = "Largeur";
+"Height" = "Hauteur";
+"Type the ratio you want" = "Tapez le ratio que vous voulez";
+"Please try to type a reasonable ratio." = "Veuillez saisir un ratio raisonnable.";
+"Customized ratio is only available for members." = "Le ratio personnalisé n'est disponible que pour les membres.";
+"This ratio is for members only." = "Ce ratio est réservé aux membres";
+"Unlock it!" = "Débloquez-le !";
 
-"Share InstaNRoll to your friends" = "Share InstaNRoll to your friends";
-"Rate us in App Store" = "Rate us in App Store ❤️";
-"Follow us on Instagram" = "Follow us on Instagram";
-"What is the app icon?" = "What is the app icon?";
+"Share InstaNRoll to your friends" = "Partager d'InstaNRoll avec vos amis";
+"Rate us in App Store" = "Evaluer l'InstaNRoll ❤️";
+"Follow us on Instagram" = "S'abonner à Instagram";
+"What is the app icon?" = "Qu'est-ce que l'icône de l'application ?";
 
-"Remove watermark" = "Remove watermark";
+"Remove watermark" = "Enlever le filigrane";
 
-"Are you sure to purchase for Watermark Removal and Unlock All Ratios?" = "Are you sure to purchase for Watermark Removal and Unlock All Ratios?";
+"Are you sure to purchase for Watermark Removal and Unlock All Ratios?" = "Devenez-vous VIP pour enlever le filigrane et déverrouiller tous les ratios?";
 
-"Jump to instagram directly?" = "Jump to instagram directly?";
+"Jump to instagram directly?" = "Aller à l'instagram？";
 
-"Unable to open" = "Unable to open";
+"Unable to open" = "Incapable d'ouvrir";
