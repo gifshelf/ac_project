@@ -14,7 +14,7 @@ Open the original image to be sliced:
 
 ![01](https://gifshelf.github.io/ac_project/app/iOS/InstaNRoll/tips/tip_01/images/IMG_9385.jpg)
 
-The initial plan was to crop it into two 1:1 ratio photos. This photo looks great in two slices, but for a larger display area, let's try a single 4:5 ratio.
+The default setting is to crop it into two 1:1 ratio photos. This photo looks great in two slices, but for a larger display area, let's try a single 4:5 ratio.
 
 ![02](https://gifshelf.github.io/ac_project/app/iOS/InstaNRoll/tips/tip_01/images/IMG_9393_en.jpg)
 
@@ -44,7 +44,7 @@ Follow the same simple process.
 
 ## Additional Tips
 
-- To avoid automatically saving the image before slicing, disable this feature in the settings.
+- To avoid automatically saving a merged version of the selected image range before slicing it into pieces, you can disable this feature in the settings.
 
 - For a more streamlined user interface, enable the "Reduce button description" option in the settings.
 
