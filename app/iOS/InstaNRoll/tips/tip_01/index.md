@@ -1,11 +1,11 @@
-# A short guide about InstaNRoll's usage
+# A short guide about CinnaRoll's usage
 
 This App is mainly for `Instagram` posting horizontal scrolling long image.
 With all kinds of photo devices, even cell phones, the resolution of photos taken nowadays has become higher, and when enlarging images on Retina screen devices, they are generally in the acceptable and spreadable range of sharpness. This leaves a lot of room for decomposition and post-cropping of photos.
 
 On `Instagram`, posting `1:1` or `4:5` ratio photos can make good use of the post space, however, if posting `5:4` and `40:21` ratio horizontal wide images, the screen utilization will be very low. When you want to show more details in non-landscape photos, or make interesting compositions, cutting a horizontal image into multiple smaller images is a good way. Indeed, some users do this way. When I search for the question *"How to make a seamless Instagram panorama"*, there are a lot of good tutorials, but they are all about `Photoshop` that the process is tedious and uncommon, and most importantly you have to use a personal computer to do it.
 
-Ta-da! With `InstaNRoll` you can forget about these worries. Take a look at the following small examples:
+Ta-da! With `CinnaRoll` you can forget about these worries. Take a look at the following small examples:
 
 --- 
 
