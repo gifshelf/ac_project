@@ -2,5 +2,5 @@
 
 ---
 
-**`InstaNRoll`** App does not collect, store or transmit personal information about it's users.
+**`CinnaRoll`** App does not collect, store or transmit personal information about it's users.
 
