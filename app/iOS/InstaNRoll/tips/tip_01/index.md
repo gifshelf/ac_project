@@ -52,4 +52,8 @@ The same process, so simple.
 - If you are familiar with the process and want to make the user interface more simple, you can turn on the "Reduce button description" switch in the settings.
 
 
+## Follow us on Instagram	
+
+[CinnaRoll offical](https://www.instagram.com/cinnarolloffical/)
+
 
