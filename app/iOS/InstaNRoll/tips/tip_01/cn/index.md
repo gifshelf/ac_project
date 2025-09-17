@@ -52,4 +52,8 @@ Ta-da! 使用 **`CinnaRoll`** 你可以忘掉这些烦恼. 请看如下几个小
 
 - 如果您已比较熟悉操作流程, 希望界面更加简洁, 可在设置中打开「减少按钮描述」开关.
 
+## 在 Instagram 上关注我们
 
+[SliceRoll App](https://www.instagram.com/slicerollapp/)
+
+---
