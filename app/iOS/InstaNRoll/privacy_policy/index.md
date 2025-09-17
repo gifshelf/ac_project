@@ -2,5 +2,5 @@
 
 ---
 
-**`CinnaRoll`** App does not collect, store or transmit personal information about it's users.
+**`SliceRoll`** App does not collect, store or transmit personal information about it's users.
 
