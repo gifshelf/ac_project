@@ -1,10 +1,10 @@
-# A Brief Guide to Using CinnaRoll
+# A Brief Guide to Using SliceRoll
 
-CinnaRoll is designed primarily for posting horizontal scrolling long images on `Instagram`. With the high resolution of photos taken by modern devices, including smartphones, images remain sharp even when enlarged on Retina screen devices. This high quality allows for extensive photo decomposition and post-cropping.
+SliceRoll is designed primarily for posting horizontal scrolling long images on `Instagram`. With the high resolution of photos taken by modern devices, including smartphones, images remain sharp even when enlarged on Retina screen devices. This high quality allows for extensive photo decomposition and post-cropping.
 
 While posting photos in `1:1` or `4:5` ratios utilizes Instagram's space well, using `5:4` or `40:21` ratios for horizontal wide images results in low screen utilization. For showcasing more details in non-landscape photos or creating interesting compositions, slicing a horizontal image into multiple smaller images is an effective approach. Many users already do this. Searching for "How to make a seamless Instagram panorama" yields many tutorials, but they mostly involve the tedious process of using `Photoshop` on a personal computer.
 
-Enter `CinnaRoll` – the solution to these challenges. Let's walk through a few simple examples:
+`SliceRoll` – the solution to these challenges. Let's walk through a few simple examples:
 
 ---
 
@@ -50,6 +50,6 @@ Follow the same simple process.
 
 ## Follow Us on Instagram
 
-[CinnaRoll Official](https://www.instagram.com/cinnarolloffical/)
+[SliceRoll App](https://www.instagram.com/slicerollapp/)
 
 ---
