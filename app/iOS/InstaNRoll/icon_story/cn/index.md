@@ -6,4 +6,4 @@
 我觉得这个应用也是一样。我爱肉桂卷，谁不爱呢？
 
 
-![dough](https://github.com/gifshelf/ac_project/blob/gh-pages/app/iOS/InstaNRoll/icon_story/images/dough.png)
+![dough](https://gifshelf.github.io/ac_project/app/iOS/InstaNRoll/icon_story/images/dough.png)
