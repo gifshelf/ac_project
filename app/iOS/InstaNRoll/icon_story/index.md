@@ -2,6 +2,5 @@
 
 ---
 
-The process of making cinnamon rolls is to use a thread to cut the dough.
-
-Very similar to this app, and I love cinnamon rolls. Who doesn't?
+When making cinnamon rolls, bakers use a piece of cotton thread to cut the dough — simple, clean, and oddly satisfying.
+I feel the same about this app. I love cinnamon rolls — who doesn’t?
